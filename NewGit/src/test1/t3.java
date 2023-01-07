@@ -1,5 +1,7 @@
 package test1;
 
 public class t3 {
-
+	public static void main(String[] args) {
+		System.out.println("¹Å¸Û«Ó³á");
+	}
 }
